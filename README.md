@@ -25,7 +25,7 @@ coding - converting software design into tangible code.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
-- there is Low flexibility, changes are hard to incorporate once a phase is complete.
+ - there is Low flexibility, changes are hard to incorporate once a phase is complete.
  - Customer feedback comes late, after the product is developed.
  - Testing is done at the end of the development process.
 agile methodology - Iterative and incremental, with multiple cycles (sprints). 
